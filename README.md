@@ -26,7 +26,7 @@ python ./code/*.py
 
 👤 **Jackpop**
 
-* Github: [@Jackpop](https://github.com/Jackpop)
+* Github: [@Jackpopc](https://github.com/Jackpopc)
 
 ## Show your support
 
